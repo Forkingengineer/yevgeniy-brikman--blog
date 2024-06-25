@@ -85,13 +85,6 @@
     Basscss.
   url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
   image: "yevgeniy-brikman-homepage.jpg"
-- name: "Hello, Startup Website"
-  date: "2015"
-  description: |
-    This is the website for my book. It's open source and includes many helpful
-    resources for building startups.
-  url: "https://github.com/brikis98/hello-startup-site"
-  image: "hello-startup-site.jpg"
 - name: "Play Framework at LinkedIn"
   date: "2013"
   description: |
