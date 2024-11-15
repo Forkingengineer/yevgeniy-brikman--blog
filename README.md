@@ -1,6 +1,6 @@
 # Yevgeniy Brikman Home Page
 
-This is the code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
+This is  code for the [Yevgeniy Brikman Home Page](https://www.ybrikman.com).
 
 ![Yevgeniy Brikman Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
 
